@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92bb7da2-a5de-4310-9145-9204b6fcc97e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/common/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/app.html" afterPath="$PROJECT_DIR$/html/app.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/app.php" afterPath="$PROJECT_DIR$/html/app.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Angular.iws" />
@@ -27,44 +24,7 @@
     <favorites_list name="Angular" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="angular.min.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/common/angular.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="15" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="104700">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#140#778#0" expanded="false" />
-                <element signature="e#799#1056#0" expanded="false" />
-                <element signature="e#1082#1736#0" expanded="false" />
-                <element signature="e#1763#1882#0" expanded="false" />
-                <element signature="e#1903#1973#0" expanded="false" />
-                <element signature="e#1993#2019#0" expanded="false" />
-                <element signature="e#2046#2622#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/app.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="13" selection-start="318" selection-end="318" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="390">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controllers.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/common/controllers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="3" selection-start="414" selection-end="414" vertical-scroll-proportion="0.25252524" vertical-offset="0" max-vertical-offset="594">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -251,7 +211,11 @@
       <created>1463130221193</created>
       <updated>1463130221193</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="初始化1">
+      <created>1463133908841</created>
+      <updated>1463133908841</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -288,7 +252,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+    <MESSAGE value="初始化1" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
